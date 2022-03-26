@@ -82,10 +82,11 @@ section {
 }
 
 .navbar {
-  /* position: fixed; */
+ position: fixed;
   top: 0;
   left: 0;
   right: 0;
+  background-color: #0d0d0d;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
